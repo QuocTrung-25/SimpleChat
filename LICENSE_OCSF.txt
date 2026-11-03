@@ -1,0 +1,19 @@
+Object-Oriented Software Engineering: Practical Software Development using UML and Java
+
+By Timothy C. Lethbridge and Robert Laganière
+
+Open Source License
+
+1. The software is Copyright © 2001 Timothy C. Lethbridge and Robert Laganière.
+2. The software is released on an as-is basis and without any warranties of any kind. In particular, the software is not guaranteed to be fault-tolerant or free from failure, so it should not be used in any context where there are public safety, financial or other risks should a failure occur. Any use, and any consequent failure, is purely the responsibility of the user.
+3. No support will be provided for this software.
+4. Permission is hereby granted to use, copy, modify, and distribute this source code, or portions thereof, for any purpose, without fee, subject to the following restrictions:
+   - The origin of this source code must not be misrepresented.
+   - Altered versions must be plainly marked as altered and must not be misrepresented as being the original source.
+   - The copyright notice may not be removed or altered from any source or altered source distribution.
+   - Executables containing OCSF or parts of it must state that the software "contains the Object Client-Server Framework copyright © 2001 By Timothy C. Lethbridge and Robert Laganière, www.lloseng.com". This notice must be displayed in the user interface wherever the copyright for the software itself is displayed. The documentation must also contain this notice.
+   - This license must be distributed with any distribution of the source or altered source.
+5. The authors welcome any feedback, proposal for changes, or proposal for improvement to the source code. The authors will be free to choose whether or not to incorporate some or all of the proposed changes into subsequent versions. Such versions will also be issued under this license or a similar one.
+6. The original of this license may be found at www.lloseng.com.
+
+OCSF source: https://site.uottawa.ca/school/research/lloseng/supportMaterial/ocsf/ocsf231.zip
